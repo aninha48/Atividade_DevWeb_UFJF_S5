@@ -1,4 +1,4 @@
-#Exercícios: Lista de passos
+# Exercícios: Lista de passos
 1. Crie uma página index.html com um título: DCC068 - Atividade 4: SEU_NOME;
 2. Adicione um main com um título igual do documento e um parágrafo;
 3. O parágrafo deve ter o conteúdo: Esta é a página principal. Temos também a página
